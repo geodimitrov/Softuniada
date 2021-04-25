@@ -1,0 +1,3 @@
+#Ignore those files/folders:
+.idea
+__pycache__
